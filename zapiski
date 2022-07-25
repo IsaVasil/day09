@@ -1,0 +1,12 @@
+static memory
+-global variable
+-static
+-callstack
+  -neprekysnata pamet
+  -lokalan pr-vi 
+  -izvikvane na f-i
+  -avtomati4no se syzdava /trie 
+-heap
+  - malloc
+  -realloc
+  -osvobojdavane s free
